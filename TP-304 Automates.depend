@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625483290 source:d:\niveau 3\semestre 2\info 304\tp-304 automates\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
